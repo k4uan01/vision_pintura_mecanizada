@@ -1,0 +1,7 @@
+{
+  "name": "vision-pintura-mecanizada",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve -l 4173"
+  }
+}
